@@ -1,0 +1,7 @@
+.idea
+./out
+./admin/target
+./services/target
+./utils/target
+./web/target
+*.iml
