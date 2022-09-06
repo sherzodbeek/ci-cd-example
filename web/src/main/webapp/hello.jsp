@@ -1,2 +1,2 @@
 ${requestScope.hello}
-Hello! Updated! New Updates!
+Hello! Updated! New Updates! Trigger!
